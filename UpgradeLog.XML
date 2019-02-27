@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ASPXUtils">
+</Property><Property Name="Solution File" Value="C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils.sln">
+</Property><Property Name="Date" Value="Tuesday, October 23, 2012">
+</Property><Property Name="Time" Value="13:42 PM">
+</Property></Properties><Event ErrorLevel="0" Project="ASPXUtils" Source="ASPXUtils\ASPXUtils.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ASPXUtils" Source="ASPXUtils\ASPXUtils.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ASPXUtils.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ASPXUtils.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ASPXUtils" Source="ASPXUtils\ASPXUtils.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

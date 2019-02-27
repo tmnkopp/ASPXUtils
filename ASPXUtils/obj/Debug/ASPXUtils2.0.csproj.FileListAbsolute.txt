@@ -1,0 +1,9 @@
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\MSCaptcha.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\SqlHelper.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\MSCaptcha.xml
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\SqlHelper.pdb
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXUtils.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXUtils.pdb
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXUtils.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXUtils.pdb

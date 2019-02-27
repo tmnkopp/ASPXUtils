@@ -1,0 +1,54 @@
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\ASPXUtils.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\ASPXUtils.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\obj\Debug\ASPXUtils.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\obj\Debug\ASPXUtils.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\System.Web.Ajax.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\System.Web.Ajax.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tim\Documents\Visual Studio 2008\Projects\ASPXUtils\ASPXUtils\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\ASPXUtils.dll
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\ASPXUtils.pdb
+K:\Websites\COM\ASPXUtils\ASPXUtils\obj\Debug\ResolveAssemblyReference.cache
+K:\Websites\COM\ASPXUtils\ASPXUtils\obj\Debug\ASPXUtils.dll
+K:\Websites\COM\ASPXUtils\ASPXUtils\obj\Debug\ASPXUtils.pdb
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\MSCaptcha.dll
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\MSCaptcha.xml
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\WebSite.Core.dll
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\SqlHelper.dll
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\Telerik.Web.UI.dll
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\SqlHelper.pdb
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\Telerik.Web.UI.xml
+K:\Websites\COM\ASPXUtils\ASPXUtils\bin\Debug\WebSite.Core.pdb
+C:\inetpub\COM\ASPXUtils\ASPXUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\COM\ASPXUtils\ASPXUtils\obj\Debug\ASPXUtils.dll
+C:\inetpub\COM\ASPXUtils\ASPXUtils\bin\Debug\ASPXUtils.dll
+C:\inetpub\COM\ASPXUtils\ASPXUtils\bin\Debug\ASPXUtils.pdb
+C:\inetpub\COM\ASPXUtils\ASPXUtils\bin\Debug\MSCaptcha.dll
+C:\inetpub\COM\ASPXUtils\ASPXUtils\bin\Debug\MSCaptcha.xml
+C:\inetpub\COM\ASPXUtils\ASPXUtils\obj\Debug\ASPXUtils.pdb
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXUtils.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXUtils.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXUtils.pdb
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\MSCaptcha.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\SqlHelper.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\MSCaptcha.xml
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\SqlHelper.pdb
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXUtils.pdb

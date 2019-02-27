@@ -1,0 +1,16 @@
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXCore.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXCore.pdb
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\MSCaptcha.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\SqlHelper.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\MSCaptcha.xml
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\bin\Debug\SqlHelper.pdb
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXCore.dll
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXCore.pdb
+C:\inetpub\COM\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXCore.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Libraries\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXCore.dll
+C:\inetpub\wwwroot\Libraries\ASPXUtils.2.0\ASPXUtils\bin\Debug\ASPXCore.pdb
+C:\inetpub\wwwroot\Libraries\ASPXUtils.2.0\ASPXUtils\bin\Debug\SqlHelper.dll
+C:\inetpub\wwwroot\Libraries\ASPXUtils.2.0\ASPXUtils\bin\Debug\SqlHelper.pdb
+C:\inetpub\wwwroot\Libraries\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXCore.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Libraries\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXCore.dll
+C:\inetpub\wwwroot\Libraries\ASPXUtils.2.0\ASPXUtils\obj\Debug\ASPXCore.pdb
